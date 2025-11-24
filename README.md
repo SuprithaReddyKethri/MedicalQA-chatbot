@@ -41,6 +41,8 @@ Open EC2 and Install docker in EC2 Machine:
 
 sudo apt-get update -y
 
+
+
 sudo apt-get upgrade
 
 #required
